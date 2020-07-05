@@ -2,3 +2,4 @@
 .project
 *.pyc
 .vscode
+__pycache__/

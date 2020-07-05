@@ -10,5 +10,5 @@ def multiply(x, y):
 def divide(x, y):
 	return x / y
 
-def square(x, y):
-	pass
+def square(x):
+	return x**2
